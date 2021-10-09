@@ -2,7 +2,7 @@
 
 Happy Birthday Evan!
 
-This is the repository Evan Super Secret Party Planning Committee Macro Keyboard!
+This is the repository for the Evan Super Secret Party Planning Committee Macro Keyboard!
 
 This macro keyboard is powered by the Quantum Mechanical Keyboard Firmware: https://qmk.fm/
 
