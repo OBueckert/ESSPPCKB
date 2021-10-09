@@ -12,6 +12,8 @@ This code is the actual project files for the keyboard. This is just an explaina
 
 The reason we use vial is to be able to store keymaps (the thing that tells qmk which key does what) on the EEPROM instead of on the flash. This allows the user to change keymaps without reflashing the keyboard every time (which requires a reset of the processor). You simply run the vial GUI, change what you want, and close the software. You don't even have to press a button to upload code.
 
+If you would just like to change the keymap on your keyboard, use this software: https://get.vial.today/download/
+
 # Reflashing
 
 # NOTE: Reflashing should not be necessary in any circumstances.
